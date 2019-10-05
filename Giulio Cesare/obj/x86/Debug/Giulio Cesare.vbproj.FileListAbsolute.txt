@@ -1,0 +1,13 @@
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\bin\Debug\Giulio Cesare.exe
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\bin\Debug\Giulio Cesare.pdb
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\bin\Debug\Giulio Cesare.xml
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.vbprojResolveAssemblyReference.cache
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio_Cesare.frmMain.resources
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio_Cesare.Resources.resources
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.vbproj.GenerateResource.Cache
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.exe
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.xml
+C:\Users\robber_hadi\Desktop\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.pdb
+D:\PSP\sem 6\FN612 NETWORK SECURITY\encrypt & decrypt\yg boleh pakai\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.exe
+D:\PSP\sem 6\FN612 NETWORK SECURITY\encrypt & decrypt\yg boleh pakai\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.xml
+D:\PSP\sem 6\FN612 NETWORK SECURITY\encrypt & decrypt\yg boleh pakai\Giulio Cesare\Giulio Cesare\obj\x86\Debug\Giulio Cesare.pdb
